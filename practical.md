@@ -1,4 +1,4 @@
-# PROGRAMMING FOR PROBLEM SOLVING  https://www.logolynx.com/topic/gndec#&gid=1&pid=1
+# PROGRAMMING FOR PROBLEM SOLVING  
 ## ESC-18104/18105
 
 
@@ -17,4 +17,3 @@
 
 
 
-https://www.logolynx.com/topic/gndec#&gid=1&pid=1
