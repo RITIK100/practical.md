@@ -4,9 +4,9 @@
 
  **By -**
 
- ** Name ~ Saurav Sagar **
- ** Roll_no ~ 1914102 **
- ** Branch ~ Civil **
+ **Name: Saurav Sagar**
+ **Roll_no: 1914102**
+ **Branch: Civil**
 [
 
  for ( int i = 1; i <= 10; i++ )
