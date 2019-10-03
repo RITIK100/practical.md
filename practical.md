@@ -13,7 +13,7 @@
  
  **Section: B2**
  
- [logo](https://www.logolynx.com/topic/gndec#&gid=1&pid=1)
+ ![logo](https://www.logolynx.com/topic/gndec#&gid=1&pid=1)
 
 
 
