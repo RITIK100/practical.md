@@ -1,18 +1,20 @@
 # Programming for problem solving
 # ESC-18104/18105
 
+![logo](https://raw.githubusercontent.com/sauravsagar786/practical.md/master/images.jpeg)
 
 
- _By_ 
+
+## _By_ 
  
 
- Name: _Saurav Sagar_
+ #### Name: _Saurav Sagar_
  
- Roll_no: _1914102_
+ #### Roll_no: _1914102_
  
- Branch: _Civil_
+ #### Branch: _Civil_
  
- Section: _B2_
+ #### Section: _B2_
  
  ![logo](https://raw.githubusercontent.com/sauravsagar786/practical.md/master/images.jpeg)
  
