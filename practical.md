@@ -16,7 +16,6 @@
  
  #### Section: _B2_
  
- ![logo](https://raw.githubusercontent.com/sauravsagar786/practical.md/master/images.jpeg)
  
  
  # PROGRAMS
