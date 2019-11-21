@@ -38,8 +38,47 @@
     18.Write a C Program to Store Information of a Student Using Structure 
     19.Write a C Program to Find Factorial of a Number Using Recursion. 
     20.Write a C Program to display Fibonacci Series using recursion.
-    -----------------------------------------------------------------------------------------------------------------------------------
-##1.Write a program to add two numbers :
-
-    #
+    -------------------------------------------------------------------------------------------------------------------------------- 
+   # 1.Write a program to add two numbers :
+   ---------------------------------------------------------------------------------------------------------------------------------
+   ## Input
+   
+    #include <stdio.h>
+     int main()
+    {
+    int firstNumber, secondNumber, sumOfTwoNumbers;
     
+    printf("Enter two integers: ");
+    scanf("%d %d", &firstNumber, &secondNumber);
+    sumOfTwoNumbers = firstNumber + secondNumber;      
+    printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
+    return 0;
+    }
+   --------------------------------------------------------------------------------------------------------------------------------
+   ## Output
+   
+   Enter two integers: 12 11
+    12 + 11 = 23
+    --------------------------------------------------------------------------------------------------------------------------------
+   # 2. Write a C Program to Multiply two Floating Point Numbers
+    --------------------------------------------------------------------------------------------------------------------------------
+   ## Input
+   
+    #include <stdio.h>
+    int main()
+    {
+    double firstNumber, secondNumber, product;
+    printf("Enter two numbers: ");
+    scanf("%lf %lf", &firstNumber, &secondNumber); 
+    product = firstNumber * secondNumber;  
+    printf("Product = %.2lf", product);
+    
+    return 0;
+    }
+    --------------------------------------------------------------------------------------------------------------------------------
+   ## Output
+   
+    Enter two numbers: 2.4
+    1.12
+    Product = 2.69
+    --------------------------------------------------------------------------------------------------------------------------------
