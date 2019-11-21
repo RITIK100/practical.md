@@ -18,30 +18,25 @@
  
  # List of programs
 ### 1.Addition of two integers
-### 2.Average of n numbers
-### 3.Weekdays
-### 4.Finding Even or Odd
-### 5.Multiplication Table
-### 6.Checking Armstrong number
-### 7.Calculator
-### 8.Bubble Sorting
-### 9.Binary search
-### 10.Factorial of a number
-### 11.FizzBuzz
-### 12.Sum of 1st 100 positive integers
-### 13.Greater of two integers
-### 14.Greatest of three integers
-### 15.GCD of two integers
-### 16.Finding a leap year
-### 17.Linear search
-### 18.Addition of a matrix
-### 19.Transpose of a matrix
-### 20.Sum of digits of numbers
-### 21.Checking Palindrome
-### 22.Swaping of numbers through call by value
-### 23.Swaping of numbers through call by refernce
-### 24.Entering the details of employee using structures
-### 25.Finding product of fractions using structures
+### 2.Multiplication of two floating numbers
+### 3.Finding even  or odd using if else condition
+### 4.Sum of first 10 natural numbers using for loop
+### 5.Print even number using while loop from 1 to N
+### 6.Print odd number using do while loop from 1 to N
+### 7.calculator using switch case
+### 8.Maximum between two number using function 
+### 9.To check whether a number is a prime or not using the function
+### 10.Function(using call by value)
+### 11.Function(using call by reference)
+### 12. Take 5 values from the user and store them in an array. Print the               elements stored in the array
+### 13.Find the average of n numbers using arrays
+### 14.Accept Sorted Array and do Search using Binary Search 
+### 15.Linear search
+### 16.Sort N numbers in ascending order using bubble sort
+### 17.Declare, assign and access a pointer variable
+### 18.Store Information of a Student Using Structure
+### 19. Factorial of a Number Using Recursion
+### 20.Display Fibonacci Series using recursion
 # PROGRAMS
 # 1.Addition of two integers
 ```
@@ -64,7 +59,7 @@ Enter two integers:2
 3
 2+3=5
 ```
-# 2.Average of n numbers
+# 2.Multiplication of two floating numbers
 ```
 \\Average of n numbers
 #include<stdio.h>
