@@ -125,7 +125,7 @@
     1 2 3 4 5 6 7 8 9 10                                                                                          
     The Sum is : 55
 
-# PRACTICAL 5. Write a C Program to print EVEN numbers from 1 to N using while loop.
+# 5. Write a C Program to print EVEN numbers from 1 to N using while loop.
 
     #include <stdio.h>
     int main()
@@ -155,7 +155,7 @@
     4
     6
 
-# PRACTICAL 6. Write a C Program to print ODD numbers from 1 to N using do while loop.
+# 6. Write a C Program to print ODD numbers from 1 to N using do while loop.
 
     #include<stdio.h>
     int main()
@@ -180,7 +180,7 @@
     Odd Numbers from 1 to 7:
     1 3 5 7 
     
-# PRACTICAL 7. Write a C Program to create a simple calculator using switch Statement.
+# 7. Write a C Program to create a simple calculator using switch Statement.
 
     #include<stdio.h>
     int main() 
@@ -221,7 +221,7 @@
     8
     45.0 + 8.0 = 53.0
 
-# PRACTICAL 8. Write a C Program to find the max between two numbers uding function 
+# 8. Write a C Program to find the max between two numbers uding function 
 
     #include <stdio.h>
     int max(int num1, int num2);
@@ -248,7 +248,7 @@
     Maximum = 67
 
 
-# PRACTICAL 9. Write a program in C to check whether a number is a prime or not using the function.
+# 9. Write a program in C to check whether a number is a prime or not using the function.
 
     #include<stdio.h>
     int check_prime(int);
@@ -282,7 +282,7 @@
     11
     11 is prime.
 
-# PRACTICAL 10. Write a C Program for function (using call by value)
+# 10. Write a C Program for function (using call by value)
 
     #include<stdio.h>
     void swap(int a,int b);
@@ -329,7 +329,7 @@
     Value of x=65,value of y=89
 
 
-## PRACTICAL 11. Write a C Program for function (using call by reference).
+# 11. Write a C Program for function (using call by reference).
     #include<stdio.h>
     void swap(int *,int *);
     void main()
@@ -373,7 +373,7 @@
     After returning from swap function
     Value of x=78,value of y=56
 
-# PRACTICAL 12. Write a C Program to take 5 values from the user and store them in an array. Print the elements stored in the array
+# 12. Write a C Program to take 5 values from the user and store them in an array. Print the elements stored in the array
 
     #include <stdio.h>
     int main() 
@@ -405,7 +405,7 @@
     91
     3
 
-# PRACTICAL 13. Write a C Program to find the average of n numbers using arrays.
+# 13. Write a C Program to find the average of n numbers using arrays.
 
     #include <stdio.h>
     int main()
@@ -442,7 +442,7 @@
     5. Enter number: 72
     Average = 57.60
 
-# PRACTICAL 14. Write a C Program to accept Sorted Array and do Search using Binary Search .
+# 14. Write a C Program to accept Sorted Array and do Search using Binary Search .
 
      #include<stdio.h>
     int main()      
@@ -495,7 +495,7 @@
     42
     42 found at location 3
 
-# PRACTICAL 15. Write a C Program to Implement Linear Search
+# 15. Write a C Program to Implement Linear Search
 
     #include <stdio.h>
     int main()
@@ -537,7 +537,7 @@
     23
     23 is present at location 4.
 
- # PRACTICAL 16. Write a C Program to Sort N Numbers in Ascending Order using Bubble Sort.
+ # 16. Write a C Program to Sort N Numbers in Ascending Order using Bubble Sort.
 
     #include<stdio.h>
     int main()
@@ -583,7 +583,7 @@
     array elements after shorting
     23   32   56   78   90   105	
 
-# PRACTICAL 17. Write a C program to declare, assign and access a pointer variable.
+# 17. Write a C program to declare, assign and access a pointer variable.
 
     #include <stdio.h>
 
@@ -615,7 +615,7 @@
     address of num: 2764564284
      
 
-#  PRACTICAL 18. Write a C Program to Store Information of a Student Using Structure
+#  18. Write a C Program to Store Information of a Student Using Structure
 
     #include <stdio.h>
     struct student
@@ -676,7 +676,7 @@
     .
     .
 
-# PRACTICAL 19. Write a C Program to Find Factorial of a Number Using Recursion.
+# 19. Write a C Program to Find Factorial of a Number Using Recursion.
 
     #include <stdio.h>
     long int multiplyNumbers(int n);
@@ -701,7 +701,7 @@
     Enter a positive integer: 6
     1 Factorial of 6 = 720
 
-# PRACTICAL 20. Write a C Program to display Fibonacci Series using recursion,
+# 20. Write a C Program to display Fibonacci Series using recursion,
 
     #include<stdio.h>
     int Fibonacci(int);
