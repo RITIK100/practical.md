@@ -1,5 +1,5 @@
-
-## ESC-18104/18105
+# Programming for problem solving
+# ESC-18104/18105
 
 
 
@@ -38,6 +38,8 @@
     18.Write a C Program to Store Information of a Student Using Structure 
     19.Write a C Program to Find Factorial of a Number Using Recursion. 
     20.Write a C Program to display Fibonacci Series using recursion.
-#1.Write a program to add two numbers :
-    
+    -----------------------------------------------------------------------------------------------------------------------------------
+##1.Write a program to add two numbers :
+
+    #
     
